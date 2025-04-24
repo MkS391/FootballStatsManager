@@ -1,4 +1,4 @@
 package org.example.User;
 
-public class Analyst {
+public class Analyst extends User implements StatPrintable {
 }

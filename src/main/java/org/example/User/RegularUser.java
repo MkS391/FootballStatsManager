@@ -1,4 +1,4 @@
 package org.example.User;
 
-public class RegularUser {
+public class RegularUser extends User {
 }

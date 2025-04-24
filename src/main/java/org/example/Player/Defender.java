@@ -1,6 +1,7 @@
 package org.example.Player;
 
-public class Defender extends Player {
+
+public class Defender extends Player{
     private int cleanSheets;
     private int tacklesWon;
     private int tacklesLost;
